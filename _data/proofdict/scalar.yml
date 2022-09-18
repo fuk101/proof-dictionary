@@ -1,0 +1,12 @@
+id: 01GD6K6TGDGM6AWRGHK1P608QD
+description: Microsoft日本語スタイルガイド
+expected: スカラー
+patterns:
+  - /スカラ(?!ー)/i
+allows: []
+specs:
+  - from: スカラ
+    to: スカラー
+  - from: スカラー
+    to: スカラー
+tags: []

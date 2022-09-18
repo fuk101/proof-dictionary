@@ -1,0 +1,10 @@
+id: 01GD6KG58H70TZMVGA1KSTCDDW
+description: Microsoft日本語スタイルガイド
+expected: プログラマ
+patterns:
+  - プログラマー
+allows: []
+specs:
+  - from: プログラマー
+    to: プログラマ
+tags: []

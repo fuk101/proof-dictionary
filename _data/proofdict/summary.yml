@@ -1,0 +1,12 @@
+id: 01GD6K2TJDR7XJ72WDK2V5F1T2
+description: Microsoft日本語スタイルガイド
+expected: サマリー
+patterns:
+  - /サマリ(?!ー)/
+allows: []
+specs:
+  - from: サマリ
+    to: サマリー
+  - from: サマリー
+    to: サマリー
+tags: []

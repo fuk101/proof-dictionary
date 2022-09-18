@@ -1,0 +1,11 @@
+id: 01GD6CRWRHWG565KJJM2TPNE6V
+description: ''
+expected: QlikView
+patterns:
+  - /qlik(|.+)view/i
+allows: []
+specs:
+  - from: qlik view
+    to: QlikView
+tags:
+  - opinion

@@ -1,0 +1,11 @@
+id: 01GD685DPW060JB78NAQTN3AQK
+description: ''
+expected: VirtualBox
+patterns:
+  - /virtual( *)box/i
+allows: []
+specs:
+  - from: virtual box
+    to: VirtualBox
+tags:
+  - opinion

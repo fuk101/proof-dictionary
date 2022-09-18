@@ -1,0 +1,15 @@
+id: 01GD66WP9X7JBPBJH89JM9BKVF
+description: ''
+expected: Node.js
+patterns:
+  - /node(.*)js/i
+allows: []
+specs:
+  - from: node.js
+    to: Node.js
+  - from: nodejs
+    to: Node.js
+  - from: 'node,js'
+    to: Node.js
+tags:
+  - opinion

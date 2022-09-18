@@ -1,0 +1,15 @@
+id: 01GD6EAYR59TJQQ8Y4D3JBREV6
+description: 'Microsoft日本語スタイルガイド'
+expected: インターフェイス
+patterns:
+  - '/インタ(ー||[^ー])フェ([^イ]|イ)ス/'
+allows: []
+specs:
+  - from: インタフェース
+    to: インターフェイス
+  - from: インターフェース
+    to: インターフェイス
+  - from: インタ・フェイス
+    to: インターフェイス
+tags:
+  - opinion

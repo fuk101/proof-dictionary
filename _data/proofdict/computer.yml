@@ -1,0 +1,12 @@
+id: 01GD6J8F5ZE0ADEK3VJ00JQ3YS
+description: Microsoft日本語スタイルガイド
+expected: コンピューター
+patterns:
+  - /コンピュータ(?!ー)/i
+allows: []
+specs:
+  - from: コンピュータ
+    to: コンピューター
+  - from: コンピューター
+    to: コンピューター
+tags: []

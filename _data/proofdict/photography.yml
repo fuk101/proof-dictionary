@@ -1,0 +1,12 @@
+id: 01GD6KDDD4H8TN0VWAGH1041EW
+description: Microsoft日本語スタイルガイド
+expected: フォトグラフィー
+patterns:
+  - /フォトグラフィ(?!ー)/
+allows: []
+specs:
+  - from: フォトグラフィ
+    to: フォトグラフィー
+  - from: フォトグラフィー
+    to: フォトグラフィー
+tags: []

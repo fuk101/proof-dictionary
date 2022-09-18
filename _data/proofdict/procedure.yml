@@ -1,0 +1,10 @@
+id: 01GD6KHV62B3XMC4AVK7Z3APGQ
+description: Microsoft日本語スタイルガイド
+expected: プロシージャ
+patterns:
+  - /プロシージャー/
+allows: []
+specs:
+  - from: プロシージャ
+    to: プロシージャ
+tags: []
