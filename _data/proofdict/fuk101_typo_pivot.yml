@@ -1,5 +1,5 @@
 id: 01GD6KAGPMTPQRY9FSF8FJ093S
-description: ピボットのtypo
+description: 「ピボット」のtypoです。
 expected: ピボット
 patterns:
   - /ピ(ボ|ポ)ッ(ト|ド)/
@@ -9,4 +9,5 @@ specs:
     to: ピボット
   - from: ピポッド
     to: ピボット
-tags: []
+tags:
+  - 表記統一

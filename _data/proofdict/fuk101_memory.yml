@@ -1,0 +1,13 @@
+id: 01GD6KKYKQRF420VH4CXN2K8QW
+description: 長音符号：対応するカタカナ語の文字数が4文字以上の場合は、長母音を省略します。（Microsoft日本語スタイルガイド）
+expected: メモリ
+patterns:
+  - メモリー
+allows: []
+specs:
+  - from: メモリー
+    to: メモリ
+  - from: メモリ
+    to: メモリ
+tags:
+  - 表記統一

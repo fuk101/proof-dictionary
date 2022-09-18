@@ -1,0 +1,13 @@
+id: 01GD6K6TGDGM6AWRGHK1P608QD
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
+expected: スカラー
+patterns:
+  - /スカラ(?!ー)/i
+allows: []
+specs:
+  - from: スカラ
+    to: スカラー
+  - from: スカラー
+    to: スカラー
+tags:
+  - 表記統一

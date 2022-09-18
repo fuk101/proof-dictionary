@@ -1,5 +1,5 @@
 id: 01GD67B3TZ39YSJVM8V80TPC7Z
-description: ''
+description: 正しくは「SQL Server」です。
 expected: SQL Server
 patterns:
   - /sql( *)server/i
@@ -10,4 +10,4 @@ specs:
   - from: sqlserver
     to: SQL Server
 tags:
-  - opinion
+  - 表記統一

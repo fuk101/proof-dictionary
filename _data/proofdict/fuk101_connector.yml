@@ -1,5 +1,5 @@
 id: 01GD6AJQWS9PR5496EZCY04E8G
-description: 'Microsoft日本語スタイルガイド'
+description: 長音符号：慣例に従い、この用語は別扱いとします。（Microsoft日本語スタイルガイド）
 expected: コネクタ
 patterns:
   - コネクター
@@ -8,4 +8,4 @@ specs:
   - from: コネクター
     to: コネクタ
 tags:
-  - opinion
+  - 表記統一

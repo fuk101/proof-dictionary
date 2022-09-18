@@ -1,5 +1,5 @@
 id: 01GD66WP9X7JBPBJH89JM9BKVF
-description: ''
+description: 正しくは「Node.js」です。
 expected: Node.js
 patterns:
   - /node(.*)js/i
@@ -12,4 +12,4 @@ specs:
   - from: 'node,js'
     to: Node.js
 tags:
-  - opinion
+  - 表記統一

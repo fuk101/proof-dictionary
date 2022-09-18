@@ -1,0 +1,13 @@
+id: 01GD6K5J1BJYEPCM407K2EGYH2
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
+expected: サーバー
+patterns:
+  - /サーバ(?!ー)/
+allows: []
+specs:
+  - from: サーバ
+    to: サーバー
+  - from: サーバー
+    to: サーバー
+tags:
+  - 表記統一

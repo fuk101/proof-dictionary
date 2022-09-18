@@ -1,5 +1,5 @@
 id: 01GD6AEXF5X9N5MC307RWJC24D
-description: 'Microsoft日本語スタイルガイド'
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
 expected: オペレーター
 patterns:
   - /オペレータ(?!ー)/
@@ -10,4 +10,4 @@ specs:
   - from: オペレーター
     to: オペレーター
 tags:
-  - opinion
+  - 表記統一

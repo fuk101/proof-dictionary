@@ -1,0 +1,13 @@
+id: 01GD6KEV8PVM3ACHFEXQKVHD2K
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
+expected: フォルダー
+patterns:
+  - /フォルダ(?!ー)/
+allows: []
+specs:
+  - from: フォルダ
+    to: フォルダー
+  - from: フォルダー
+    to: フォルダー
+tags:
+  - 表記統一

@@ -1,5 +1,5 @@
 id: 01GD6FYCSXC77T2P4ZRB8SKQFT
-description: Microsoft日本語スタイルガイド
+description: 長音符号：慣例に従い、この用語は別扱いとします。（Microsoft日本語スタイルガイド）
 expected: コンパイラ
 patterns:
   - コンパイラー

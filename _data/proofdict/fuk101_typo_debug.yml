@@ -1,5 +1,5 @@
 id: 01GD6K8HCK2NJ66NQX7QTEJJJ8
-description: デバッグのtypo
+description: 「デバッグ」のtypoです。
 expected: デバッグ
 patterns:
   - デバック
@@ -7,4 +7,5 @@ allows: []
 specs:
   - from: デバック
     to: デバッグ
-tags: []
+tags:
+  - 表記統一

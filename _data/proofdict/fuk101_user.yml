@@ -1,0 +1,13 @@
+id: 01GD6KP1JJ4PPWVQ7CCY0XTC6P
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
+expected: ユーザー
+patterns:
+  - /ユーザ(?!ー)/
+allows: []
+specs:
+  - from: ユーザ
+    to: ユーザー
+  - from: ユーザー
+    to: ユーザー
+tags:
+  - 表記統一

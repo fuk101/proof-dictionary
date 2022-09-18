@@ -1,0 +1,11 @@
+id: 01GD7R17PN9T2QPQ37ND5X6055
+description: 長音符号：対応するカタカナ語の文字数が4文字以上の場合は、長母音を省略します。（Microsoft日本語スタイルガイド）
+expected: クエリ
+patterns:
+  - /クエリー/
+allows: []
+specs:
+  - from: クエリー
+    to: クエリ
+tags:
+  - 表記統一

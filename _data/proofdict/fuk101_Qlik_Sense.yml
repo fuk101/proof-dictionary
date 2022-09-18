@@ -1,5 +1,5 @@
 id: 01GD6CKVK62GA0P5M2QVPGR3WX
-description: ''
+description: 正しくは「Qlik Sense」です。
 expected: Qlik Sense
 patterns:
   - /Qlik( *)Sense/i
@@ -8,4 +8,4 @@ specs:
   - from: qliksense
     to: Qlik Sense
 tags:
-  - opinion
+  - 表記統一

@@ -1,5 +1,5 @@
 id: 01GD6K2TJDR7XJ72WDK2V5F1T2
-description: Microsoft日本語スタイルガイド
+description: 長音符号：慣例に従い、この用語は別扱いとします。（Microsoft日本語スタイルガイド）
 expected: サマリー
 patterns:
   - /サマリ(?!ー)/
@@ -9,4 +9,5 @@ specs:
     to: サマリー
   - from: サマリー
     to: サマリー
-tags: []
+tags:
+  - 表記統一

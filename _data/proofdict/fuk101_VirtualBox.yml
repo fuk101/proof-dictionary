@@ -1,5 +1,5 @@
 id: 01GD685DPW060JB78NAQTN3AQK
-description: ''
+description: 正しくは「VirtualBox」です。
 expected: VirtualBox
 patterns:
   - /virtual( *)box/i
@@ -8,4 +8,4 @@ specs:
   - from: virtual box
     to: VirtualBox
 tags:
-  - opinion
+  - 表記統一

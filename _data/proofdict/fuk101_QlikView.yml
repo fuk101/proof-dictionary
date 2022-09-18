@@ -1,5 +1,5 @@
 id: 01GD6CRWRHWG565KJJM2TPNE6V
-description: ''
+description: 正しくは「QlikView」です。
 expected: QlikView
 patterns:
   - /qlik(|.+)view/i
@@ -8,4 +8,4 @@ specs:
   - from: qlik view
     to: QlikView
 tags:
-  - opinion
+  - 表記統一

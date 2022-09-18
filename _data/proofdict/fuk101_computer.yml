@@ -1,5 +1,5 @@
 id: 01GD6J8F5ZE0ADEK3VJ00JQ3YS
-description: Microsoft日本語スタイルガイド
+description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
 expected: コンピューター
 patterns:
   - /コンピュータ(?!ー)/i
@@ -9,4 +9,5 @@ specs:
     to: コンピューター
   - from: コンピューター
     to: コンピューター
-tags: []
+tags:
+  - 表記統一

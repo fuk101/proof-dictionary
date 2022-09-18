@@ -1,5 +1,5 @@
 id: 01GD67QS4DHA516G799YQ9TCNS
-description: ''
+description: 正しくは「Vagrant」です。
 expected: Vagrant
 patterns:
   - /vagrant/i
@@ -8,4 +8,4 @@ specs:
   - from: vagrant
     to: Vagrant
 tags:
-  - opinion
+  - 表記統一

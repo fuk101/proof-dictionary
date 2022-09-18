@@ -1,5 +1,5 @@
 id: 01GD6KG58H70TZMVGA1KSTCDDW
-description: Microsoft日本語スタイルガイド
+description: 長音符号：慣例に従い、この用語は別扱いとします。（Microsoft日本語スタイルガイド）
 expected: プログラマ
 patterns:
   - プログラマー
@@ -7,4 +7,5 @@ allows: []
 specs:
   - from: プログラマー
     to: プログラマ
-tags: []
+tags:
+  - 表記統一
