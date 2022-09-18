@@ -1,0 +1,13 @@
+id: 01GD67B3TZ39YSJVM8V80TPC7Z
+description: ''
+expected: SQL Server
+patterns:
+  - /sql( *)server/i
+allows: []
+specs:
+  - from: sql server
+    to: SQL Server
+  - from: sqlserver
+    to: SQL Server
+tags:
+  - opinion

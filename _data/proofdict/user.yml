@@ -1,0 +1,12 @@
+id: 01GD6KP1JJ4PPWVQ7CCY0XTC6P
+description: Microsoft日本語スタイルガイド
+expected: ユーザー
+patterns:
+  - /ユーザ(?!ー)/
+allows: []
+specs:
+  - from: ユーザ
+    to: ユーザー
+  - from: ユーザー
+    to: ユーザー
+tags: []
