@@ -3,7 +3,8 @@ description: 正しくは「さくらのレンタルサーバー」です。
 expected: さくらのレンタルサーバ
 patterns:
   - さくらのレンタルサーバー
-allows: []
+allows:
+  - /サーバ/
 specs:
   - from: さくらのレンタルサーバー
     to: さくらのレンタルサーバ
