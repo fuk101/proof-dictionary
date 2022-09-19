@@ -1,0 +1,13 @@
+id: 01GD9PN0N2XYY0N0KGFW5Q78KZ
+description: 正しくは「VS Code」です。
+expected: VS Code
+patterns:
+  - /vs( *)code/i
+allows: []
+specs:
+  - from: vscode
+    to: VS Code
+  - from: vs code
+    to: VS Code
+tags:
+  - 表記統一
