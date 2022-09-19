@@ -1,0 +1,11 @@
+id: 01GD9T8827TJY3H3N0JYWS882G
+description: 正しくは「Windwos XX」です。
+expected: Windows $1
+patterns:
+  - /windows(\d+)/i
+allows: []
+specs:
+  - from: windows11
+    to: Windows 11
+tags:
+  - 表記統一
