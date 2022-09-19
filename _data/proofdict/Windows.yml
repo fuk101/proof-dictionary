@@ -1,0 +1,13 @@
+id: 01GD9R51PD4AK9WEJVV66R39S3
+description: 正しくは「Windows」です。
+expected: Windows
+patterns:
+  - /windows/i
+allows: []
+specs:
+  - from: windows
+    to: Windows
+  - from: windowsの
+    to: Windowsの
+tags:
+  - 表記統一
