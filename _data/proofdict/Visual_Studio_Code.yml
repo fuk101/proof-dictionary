@@ -1,0 +1,13 @@
+id: 01GD9P7X2NR9VF5BSP7N4END6Z
+description: 正しくは「Visual Studio Code」です。
+expected: Visual Studio Code
+patterns:
+  - /Visual( *)Studio( *)Code/i
+allows: []
+specs:
+  - from: visual studio code
+    to: Visual Studio Code
+  - from: visualstudiocode
+    to: Visual Studio Code
+tags:
+  - 表記統一
