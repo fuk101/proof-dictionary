@@ -1,0 +1,13 @@
+id: 01GD9R51PD4AK9WEJVV66R39S3
+description: 正しくは「Windows」、「Windows XX」です。
+expected: Windows$1$2
+patterns:
+  - /windows( *)(\d*)/i
+allows: []
+specs:
+  - from: windows
+    to: Windows
+  - from: windows11
+    to: Windows11
+tags:
+  - 表記統一
