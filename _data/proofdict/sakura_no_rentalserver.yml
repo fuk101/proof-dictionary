@@ -1,0 +1,11 @@
+id: 01GDASWWWYMJCR6TPA474T13R7
+description: 正しくは「さくらのレンタルサーバー」です。
+expected: さくらのレンタルサーバ
+patterns:
+  - さくらのレンタルサーバー
+allows: []
+specs:
+  - from: さくらのレンタルサーバー
+    to: さくらのレンタルサーバ
+tags:
+  - 表記統一
