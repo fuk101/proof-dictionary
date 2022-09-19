@@ -1,0 +1,11 @@
+id: 01GDAABCP7WF68VZR7FNJV6VZD
+description: 長音符号：対応するカタカナ語の文字数が4文字以上の場合は、長母音を省略します。（Microsoft日本語スタイルガイド）
+expected: ディレクトリ
+patterns:
+  - /ディレクトリー/i
+allows: []
+specs:
+  - from: ディレクトリー
+    to: ディレクトリ
+tags:
+  - 表記統一
