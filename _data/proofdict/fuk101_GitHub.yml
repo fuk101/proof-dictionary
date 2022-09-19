@@ -1,0 +1,13 @@
+id: 01GD9Q4J2V7HG5K2G0MDMPEA4N
+description: 正しくは「GitHub」です。
+expected: GitHub
+patterns:
+  - /git( *)hub/i
+allows: []
+specs:
+  - from: github
+    to: GitHub
+  - from: git hub
+    to: GitHub
+tags:
+  - 表記統一

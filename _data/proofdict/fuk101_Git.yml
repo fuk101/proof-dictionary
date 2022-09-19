@@ -1,0 +1,11 @@
+id: 01GD9PZAZFFHZES92A6DKVRHMR
+description: 正しくは「Git」です。
+expected: Git
+patterns:
+  - /git/i
+allows: []
+specs:
+  - from: git
+    to: Git
+tags:
+  - 表記統一
