@@ -2,7 +2,7 @@ id: 01GD6CRWRHWG565KJJM2TPNE6V
 description: 正しくは「QlikView」です。
 expected: QlikView
 patterns:
-  - /qlik(|.+)view/i
+  - /qlik(|.+?)view/i
 allows: []
 specs:
   - from: qlik view
