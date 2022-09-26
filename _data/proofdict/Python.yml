@@ -1,0 +1,11 @@
+id: 01GDW788E8DV48S27TC6A2SPTQ
+description: 正しくは「Python」です。
+expected: Python
+patterns:
+  - /python/i
+allows: []
+specs:
+  - from: python
+    to: Python
+tags:
+  - 表記統一
