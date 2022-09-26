@@ -2,7 +2,7 @@ id: 01GD6CKVK62GA0P5M2QVPGR3WX
 description: 正しくは「Qlik Sense」です。
 expected: Qlik Sense
 patterns:
-  - /Qlik( *)Sense/i
+  - /Qlik( *?)Sense/i
 allows: []
 specs:
   - from: qliksense
