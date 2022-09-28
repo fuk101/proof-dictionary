@@ -1,13 +1,15 @@
 id: 01GDABEMZ4EFZ9ESPCWMMCNGSJ
 description: 長音符号：原語に接尾辞「-er」、「-or」、「-ar」がある場合は、原則として長母音を使用します。（Microsoft日本語スタイルガイド）
-expected: エディター
+expected: $1
 patterns:
-  - /エディタ(?!ー)/
+  - /(?!サクラ)(エディタ)(?!ー)/
 allows: []
 specs:
   - from: エディタ
     to: エディター
   - from: エディター
     to: エディター
+  - from: サクラエディタ
+    to: サクラエディタ
 tags:
   - 表記統一
