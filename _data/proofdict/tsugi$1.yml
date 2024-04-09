@@ -2,7 +2,7 @@ id: 01BQ92YWWJ53P93ZZ2YMXDKF1D
 description: 書籍の場合は、以下ではなく次を利用します。（常に下にあるとは限らないため）
 expected: 次$1
 patterns:
-  - '/(?<!\d.*)(?:以下|下記)(の)/'
+  - '/(?<![A-Z\d].*)(?:以下|下記)(の)/'
 allows: []
 specs:
   - from: それぞれ以下のように書かれています。
