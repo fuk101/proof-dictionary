@@ -1,0 +1,11 @@
+id: 01J7ZQ799YR200YEXV985AZ0XX
+description: 正しくは「TMEIC」です。
+expected: TMEIC
+patterns:
+  - /TMICE/
+allows: []
+specs:
+  - from: TMICE
+    to: TMEIC
+tags:
+  - 表記統一
